@@ -90,7 +90,9 @@ router.post('/', (req, res) => {
     });
 });
 
+//
 // update product
+// Parameters can include: product_name, price, stock, category_id, and tagIds (note: tagIds is an array; enter numbers in square brackets)
 router.put('/:id', (req, res) => {
   // update product data
   Product.update(req.body, {
