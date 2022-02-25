@@ -1,7 +1,7 @@
 const { Model, DataTypes } = require('sequelize');
-
 const sequelize = require('../config/connection');
 
+// Product Tag Model
 class ProductTag extends Model {}
 
 ProductTag.init(
@@ -33,7 +33,6 @@ ProductTag.init(
     freezeTableName: true,
     underscored: true,
     modelName: 'product_tag',
-    // onDelete: 'cascade'
   }
 );
 
