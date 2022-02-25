@@ -46,4 +46,4 @@ If you have any questions, concerns, or comments, feel free to contact me:
 
 -Installation: [Screencastify](https://drive.google.com/file/d/1MyrixMWNNXFbe1yMbrmpjPPOV56u77P4/view)  
 -Part 1: [Screencastify](https://drive.google.com/file/d/1DTGv6gfGdMGQJRxa3V_JqZBnbwRxpnBQ/view)  
--Part 1: [Screencastify](https://drive.google.com/file/d/1IVIloOLw63BvFLdyYkyirUZDQNibf-Ra/view)
+-Part 2: [Screencastify](https://drive.google.com/file/d/1IVIloOLw63BvFLdyYkyirUZDQNibf-Ra/view)
